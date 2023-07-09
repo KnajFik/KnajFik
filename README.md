@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @KnajFik
-- 👀 I’m interested in ... 3D/2D and of course Programing 
-- 🌱 I’m currently learning ... Database, C#, HTML
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... 3D/2D 
 - 📫 How to reach me ... discord: KnajFi#6654
 
 <!---
